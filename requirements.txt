@@ -1,0 +1,8 @@
+langchain
+sentence-transformers
+kaggle-secrets
+transformers
+google-generativeai
+torch
+pandas
+numpy
