@@ -1,4 +1,4 @@
-# StableDiffusion-ImageGen
+# Gemini-API-Interview-Guide
 ### This project leverages the Google Gemini API to enhance interview preparation by generating tailored questions and answers.
 ## **📁 About Dataset**
 
